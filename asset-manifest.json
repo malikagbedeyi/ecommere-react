@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecommere-react/static/css/main.8dda7d59.css",
+    "main.js": "/ecommere-react/static/js/main.be942b9f.js",
+    "static/js/787.f768c224.chunk.js": "/ecommere-react/static/js/787.f768c224.chunk.js",
+    "index.html": "/ecommere-react/index.html",
+    "main.8dda7d59.css.map": "/ecommere-react/static/css/main.8dda7d59.css.map",
+    "main.be942b9f.js.map": "/ecommere-react/static/js/main.be942b9f.js.map",
+    "787.f768c224.chunk.js.map": "/ecommere-react/static/js/787.f768c224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dda7d59.css",
+    "static/js/main.be942b9f.js"
+  ]
+}
